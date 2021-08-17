@@ -1,4 +1,4 @@
-let plantsInField = [];
+export let plantsInField = [];
 
 export const addPlant = (seed) => {
     if (Array.isArray(seed)) {
